@@ -1,0 +1,8 @@
+streamlit
+numpy
+nltk
+pandas
+plotly
+snscrape.modules.twitter
+matplotlib.pyplot
+wordcloud
