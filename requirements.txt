@@ -1,8 +1,10 @@
 streamlit
 numpy
 nltk
+SentimentIntensityAnalyzer
 pandas
 plotly
+make_subplots
 snscrape.modules.twitter
 matplotlib.pyplot
 wordcloud
